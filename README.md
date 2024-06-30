@@ -21,4 +21,4 @@ After this, the project will be running on your localhost. Typically at http://l
 
 
 # Author
-Siddharth Nain
+Dhairyaa
